@@ -1,6 +1,5 @@
 version: latest
 
-# Build PDF & ePub
 formats:
   - epub
   - pdf
