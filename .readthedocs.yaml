@@ -3,4 +3,6 @@ version: 2
 #   configuration: mkdocs.yml  # Path to your mkdocs.yml file
 # python:
 #   version: 3.8  # Specify the Python version
-
+mkdocs:
+  configuration: mkdocs.yml
+  fail_on_warning: false
