@@ -117,14 +117,85 @@ To add product stocks please follow the steps below:
 2. On the sidebar of the Merchant Interface click `Orders` menu and select the `Completed` option.
 3. Select an order from the list and click the `View Order` button to show more details about the order.
 
-## Running Inventory
-
 ## Delivery Charge
+
+### Adding Delivery Charge
+
+To add delivery charge please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Delivery Charge` menu.
+3. On the new interface that appear click the `New` button and a form will appear.
+4. Fill out the form by typing on each field .
+5. When you are done filling up the delivery charge form click `Save` and the system will add the new delivery charge.
+
+### Editing Delivery Charge
+
+To edit a delivery charge please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Delivery Charge` menu.
+3. On the new interface that appear select a record and click the `Edit` button and a form will appear.
+4. Fill out the form by typing on each field .
+5. When you are done filling up the delivery charge form click `Save` and the system will update the delivery charge.
+
+### Deleting Delivery Charge
+
+To edit a delivery charge please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Delivery Charge` menu.
+3. On the new interface that appear select a record and click the `Delete` button and a confirmation message will appear.
+4. Click `Delete` and the delivery charge will be deleted from the system.
 
 ## Mode of Payment
 
+### Adding Mode of Payment
+
+To add mode of payment please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Mode of Payment` menu.
+3. On the new interface that appear click the `New` button and a form will appear.
+4. Fill out the form by typing on each field .
+5. When you are done filling up the mode of payment form click `Save` and the system will add the new mode of payment.
+
+### Editing Mode of Payment
+
+To edit a mode of payment please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Mode of Payment` menu.
+3. On the new interface that appear select a record and click the `Edit` button and a form will appear.
+4. Fill out the form by typing on each field .
+5. When you are done filling up the mode of payment form click `Save` and the system will update the mode of payment.
+
+### Deleting Mode of Payment
+
+To edit a mode of payment please follow the steps below:
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Mode of Payment` menu.
+3. On the new interface that appear select a record and click the `Delete` button and a confirmation message will appear.
+4. Click `Delete` and the mode of payment will be deleted from the system.
+
 ## Reports
 
-### Sales Report
+### Viewing Sales Report
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Reports` menu and choose the `Sales` option.
+3. A new chart will appear visualizing the summary of sales categorized by weekly, monthly and yearly.
 
 ### Product Inventory
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Reports` menu and choose the `Product Inventory` option.
+3. A new chart will appear visualizing the summary of sales categorized by weekly, monthly and yearly.
+
+### Print Product Inventory
+
+1. Open your Emart account using your merchant account.
+2. On the sidebar of the Merchant Interface click `Reports` menu and choose the `Product Inventory` option.
+3. A new chart will appear visualizing the summary of sales categorized by weekly, monthly and yearly.
+4. Click the `Print` button to print the report.

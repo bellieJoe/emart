@@ -10,3 +10,9 @@ plugins:
       toc_depth: 6
       add_cover_page: true
       cover_page_template: "docs/assets/templates/custom_cover_page.tpl"
+nav:
+    - Introduction: 'index.md'
+    - Installation: 'installation.md'
+    - User Accounts and Authentication: 'registration.md'
+    - Merchants: 'store_management.md'
+    - Customer: 'customer.md'

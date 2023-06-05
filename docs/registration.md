@@ -2,6 +2,7 @@
 On this page, we will guide you on how to sign in and register for a new account on Emart.
 
 ## Register as a Merchant
+
 To Register a Merchant account please follow the step by step procedure below:
 
 1. Open the Emart website on the browser by entering the url `localhost/e-mart`.
@@ -15,7 +16,15 @@ To Register a Merchant account please follow the step by step procedure below:
 9. Finally you may proceed to Account Verification.
 
 ## Register as Customer
+
 To Register a Customer account please follow the step by step procedure below:
+
+1. Open the Emart website on the browser by entering the url `localhost/e-mart`.
+2. In the top navigation of the website click on the `Account` navigation and the `Sign Up` menu option.
+3. After clicking the `Sign Up` option a new page will appear with a Form like this.<br>![](assets/images/sign-up-form.png)
+4. Fill out all the input fields except for the Account Type.
+5. On the Account type input, please select the Customer.
+7. After that click Register and the system will register your account and return a new page with a success message that looks like this.<br>![](assets/images/sign-up-merchant-success.png)
 
 ## Merchant Account Verification
 If your merchant account is newly registered and you login for the first time the website will not let you Sign In because the admin hasnt approved it yet.
