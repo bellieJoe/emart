@@ -16,3 +16,4 @@ nav:
     - User Accounts and Authentication: 'registration.md'
     - Merchants: 'store_management.md'
     - Customer: 'customer.md'
+    - Administrator: 'admin.md'
